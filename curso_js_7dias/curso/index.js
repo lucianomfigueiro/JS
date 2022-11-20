@@ -1,4 +1,4 @@
-console.log('Javascript funcionando');
+//console.log('Javascript funcionando');
 
 let firstName = 'Luciano';
 let = lastName = 'MF'
@@ -34,6 +34,8 @@ function percentage10(price) {
 
 }
 
-console.log(percentage10(20))
+console.log(percentage10(10))
 
-
+let driver = 90
+let speed = driver > 110 ? 'Above' : 'Below'
+console.log(speed)
